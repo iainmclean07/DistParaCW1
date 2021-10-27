@@ -1,0 +1,191 @@
+-----------Starting Execution------------
+--------------DS1 C+OpenMP---------------
+DS1 with 1 threads
+
+real	0m6.379s
+user	0m6.338s
+sys	0m0.004s
+
+DS1 with 1 threads
+
+real	0m6.571s
+user	0m6.542s
+sys	0m0.003s
+
+DS1 with 1 threads
+
+real	0m6.974s
+user	0m6.895s
+sys	0m0.011s
+
+DS1 with 2 threads
+
+real	0m4.705s
+user	0m8.901s
+sys	0m0.016s
+
+DS1 with 2 threads
+
+real	0m3.818s
+user	0m6.995s
+sys	0m0.017s
+
+DS1 with 2 threads
+
+real	0m3.840s
+user	0m7.230s
+sys	0m0.006s
+
+DS1 with 4 threads
+
+real	0m3.176s
+user	0m9.706s
+sys	0m0.018s
+
+DS1 with 4 threads
+
+real	0m3.568s
+user	0m8.636s
+sys	0m0.023s
+
+DS1 with 4 threads
+
+real	0m3.570s
+user	0m9.278s
+sys	0m0.009s
+
+DS1 with 8 threads
+
+real	0m2.836s
+user	0m7.139s
+sys	0m0.021s
+
+DS1 with 8 threads
+
+real	0m4.359s
+user	0m9.821s
+sys	0m0.044s
+
+DS1 with 8 threads
+
+real	0m3.838s
+user	0m8.966s
+sys	0m0.026s
+
+DS1 with 16 threads
+
+real	0m4.066s
+user	0m8.546s
+sys	0m0.035s
+
+DS1 with 16 threads
+
+real	0m3.659s
+user	0m8.362s
+sys	0m0.028s
+
+DS1 with 16 threads
+
+real	0m3.610s
+user	0m9.006s
+sys	0m0.032s
+
+DS1 with 32 threads
+
+real	0m3.857s
+user	0m9.120s
+sys	0m0.015s
+
+DS1 with 32 threads
+
+real	0m3.929s
+user	0m9.535s
+sys	0m0.032s
+
+DS1 with 32 threads
+
+real	0m3.558s
+user	0m8.923s
+sys	0m0.029s
+
+DS1 with 48 threads
+
+real	0m2.912s
+user	0m10.075s
+sys	0m0.019s
+
+DS1 with 48 threads
+
+real	0m2.836s
+user	0m9.595s
+sys	0m0.024s
+
+DS1 with 48 threads
+
+real	0m3.240s
+user	0m9.895s
+sys	0m0.023s
+
+DS1 with 64 threads
+
+real	0m3.179s
+user	0m9.788s
+sys	0m0.024s
+
+DS1 with 64 threads
+
+real	0m3.362s
+user	0m9.943s
+sys	0m0.037s
+
+DS1 with 64 threads
+
+real	0m4.300s
+user	0m9.357s
+sys	0m0.034s
+
+--------------DS2 C+OpenMP---------------
+
+real	0m30.665s
+user	0m30.069s
+sys	0m0.037s
+
+real	0m28.925s
+user	0m28.545s
+sys	0m0.019s
+
+real	0m28.619s
+user	0m28.211s
+sys	0m0.018s
+
+real	0m16.487s
+user	0m31.853s
+sys	0m0.032s
+
+real	0m17.286s
+user	0m32.943s
+sys	0m0.041s
+
+real	0m16.998s
+user	0m33.106s
+sys	0m0.030s
+
+real	0m12.828s
+user	0m42.784s
+sys	0m0.083s
+
+real	0m13.675s
+user	0m41.818s
+sys	0m0.101s
+
+real	0m11.810s
+user	0m41.962s
+sys	0m0.064s
+
+real	0m11.432s
+user	0m36.949s
+sys	0m0.048s
+
+real	0m13.591s
+user	0m38.043s
+sys	0m0.059s

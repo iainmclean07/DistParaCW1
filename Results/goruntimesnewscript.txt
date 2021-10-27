@@ -1,0 +1,383 @@
+-----------Starting Execution------------
+-----------------DS1 GO------------------
+DS1 with 1 threads
+
+real    0m16.661s
+user    0m16.680s
+sys     0m0.108s
+
+DS1 with 1 threads
+
+real    0m16.241s
+user    0m16.272s
+sys     0m0.114s
+
+DS1 with 1 threads
+
+real    0m16.435s
+user    0m16.434s
+sys     0m0.164s
+
+DS1 with 2 threads
+
+real    0m8.249s
+user    0m16.205s
+sys     0m0.152s
+
+DS1 with 2 threads
+
+real    0m8.260s
+user    0m16.298s
+sys     0m0.100s
+
+DS1 with 2 threads
+
+real    0m8.268s
+user    0m16.256s
+sys     0m0.108s
+
+DS1 with 4 threads
+
+real    0m4.446s
+user    0m17.028s
+sys     0m0.092s
+
+DS1 with 4 threads
+
+real    0m4.425s
+user    0m16.967s
+sys     0m0.069s
+
+DS1 with 4 threads
+
+real    0m4.429s
+user    0m16.901s
+sys     0m0.119s
+
+DS1 with 8 threads
+
+real    0m2.441s
+user    0m17.593s
+sys     0m0.099s
+
+DS1 with 8 threads
+
+real    0m2.431s
+user    0m17.566s
+sys     0m0.106s
+
+DS1 with 8 threads
+
+real    0m2.442s
+user    0m17.580s
+sys     0m0.128s
+
+DS1 with 16 threads
+
+real    0m1.378s
+user    0m17.706s
+sys     0m0.124s
+
+DS1 with 16 threads
+
+real    0m1.382s
+user    0m17.747s
+sys     0m0.113s
+
+DS1 with 16 threads
+
+real    0m1.409s
+user    0m17.823s
+sys     0m0.112s
+
+DS1 with 32 threads
+
+real    0m1.003s
+user    0m22.826s
+sys     0m0.127s
+
+DS1 with 32 threads
+
+real    0m1.020s
+user    0m22.907s
+sys     0m0.086s
+
+DS1 with 32 threads
+
+real    0m1.003s
+user    0m22.862s
+sys     0m0.113s
+
+DS1 with 48 threads
+
+real    0m1.015s
+user    0m22.936s
+sys     0m0.086s
+
+DS1 with 48 threads
+
+real    0m1.008s
+user    0m22.866s
+sys     0m0.098s
+
+DS1 with 48 threads
+
+real    0m1.005s
+user    0m22.916s
+sys     0m0.119s
+
+DS1 with 64 threads
+
+real    0m1.018s
+user    0m22.921s
+sys     0m0.102s
+
+DS1 with 64 threads
+
+real    0m1.000s
+user    0m22.827s
+sys     0m0.162s
+
+DS1 with 64 threads
+
+real    0m1.016s
+user    0m22.968s
+sys     0m0.070s
+
+-----------------DS2 GO------------------
+DS2 with 1 threads
+
+real    1m8.779s
+user    1m8.905s
+sys     0m0.089s
+
+DS2 with 1 threads
+
+real    1m9.160s
+user    1m9.234s
+sys     0m0.105s
+
+DS2 with 1 threads
+
+real    1m8.521s
+user    1m8.384s
+sys     0m0.318s
+
+DS2 with 2 threads
+
+real    0m34.377s
+user    1m8.489s
+sys     0m0.112s
+
+DS2 with 2 threads
+
+real    0m34.667s
+user    1m9.145s
+sys     0m0.084s
+
+DS2 with 2 threads
+
+real    0m34.409s
+user    1m8.524s
+sys     0m0.140s
+
+DS2 with 4 threads
+
+real    0m18.275s
+user    1m12.333s
+sys     0m0.105s
+
+DS2 with 4 threads
+
+real    0m18.146s
+user    1m11.750s
+sys     0m0.113s
+
+DS2 with 4 threads
+
+real    0m18.131s
+user    1m11.621s
+sys     0m0.123s
+
+DS2 with 8 threads
+
+real    0m9.492s
+user    1m14.042s
+sys     0m0.121s
+
+DS2 with 8 threads
+
+real    0m9.493s
+user    1m14.078s
+sys     0m0.090s
+
+DS2 with 8 threads
+
+real    0m9.498s
+user    1m14.064s
+sys     0m0.095s
+
+DS2 with 16 threads
+
+real    0m4.905s
+user    1m14.278s
+sys     0m0.082s
+
+DS2 with 16 threads
+
+real    0m4.917s
+user    1m14.179s
+sys     0m0.129s
+
+DS2 with 16 threads
+
+real    0m4.936s
+user    1m14.294s
+sys     0m0.097s
+
+DS2 with 32 threads
+
+real    0m3.387s
+user    1m36.921s
+sys     0m0.123s
+
+DS2 with 32 threads
+
+real    0m3.360s
+user    1m36.898s
+sys     0m0.174s
+
+DS2 with 32 threads
+
+real    0m3.369s
+user    1m36.818s
+sys     0m0.109s
+
+DS2 with 48 threads
+
+real    0m3.362s
+user    1m36.995s
+sys     0m0.096s
+
+DS2 with 48 threads
+
+real    0m3.346s
+user    1m36.955s
+sys     0m0.171s
+
+DS2 with 48 threads
+
+real    0m3.390s
+user    1m36.862s
+sys     0m0.125s
+
+DS2 with 64 threads
+
+real    0m3.332s
+user    1m36.995s
+sys     0m0.137s
+
+DS2 with 64 threads
+
+real    0m3.369s
+user    1m36.856s
+sys     0m0.154s
+
+DS2 with 64 threads
+
+real    0m3.384s
+user    1m36.839s
+sys     0m0.127s
+
+-----------------DS3 GO------------------
+DS3 with 8 threads
+
+real    0m39.515s
+user    5m14.135s
+sys     0m0.148s
+
+DS3 with 8 threads
+
+real    0m39.543s
+user    5m14.107s
+sys     0m0.152s
+
+DS3 with 8 threads
+
+real    0m39.508s
+user    5m14.143s
+sys     0m0.155s
+
+DS3 with 16 threads
+
+real    0m19.999s
+user    5m15.186s
+sys     0m0.110s
+
+DS3 with 16 threads
+
+real    0m19.966s
+user    5m14.963s
+sys     0m0.132s
+
+DS3 with 16 threads
+
+real    0m19.957s
+user    5m14.885s
+sys     0m0.108s
+
+DS3 with 32 threads
+
+real    0m13.176s
+user    6m51.540s
+sys     0m0.191s
+
+DS3 with 32 threads
+
+real    0m13.224s
+user    6m51.405s
+sys     0m0.186s
+
+DS3 with 32 threads
+
+real    0m13.170s
+user    6m51.601s
+sys     0m0.185s
+
+DS3 with 48 threads
+
+real    0m13.168s
+user    6m51.672s
+sys     0m0.153s
+
+DS3 with 48 threads
+
+real    0m13.179s
+user    6m51.695s
+sys     0m0.122s
+
+DS3 with 48 threads
+
+real    0m13.186s
+user    6m51.657s
+sys     0m0.163s
+
+DS3 with 64 threads
+
+real    0m13.234s
+user    6m51.745s
+sys     0m0.122s
+
+DS3 with 64 threads
+
+real    0m13.168s
+user    6m51.623s
+sys     0m0.225s
+
+DS3 with 64 threads
+
+real    0m13.166s
+user    6m51.655s
+sys     0m0.184s
+
+-----------Finished Execution------------

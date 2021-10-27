@@ -1,0 +1,321 @@
+DS1 Go UnPar
+
+median = 15.962933753
+
+DS2 Go UnPar
+
+median = 1m8.537761999
+
+DS1 C UnPar
+
+median = 15.208s
+
+DS2 C UnPar
+
+median = 1m5.970
+
+DS1 Go
+
+1 thread
+15.928511766s
+15.885763885s
+15.882591296s
+
+median = 15.885763885s
+
+2 threads
+7.978376241s
+8.166709669s
+7.999643727s
+
+median = 7.999643727s
+
+4 threads
+4.180392733s
+4.184087165s
+4.175880586s
+
+median = 4.180392733s
+
+8 threads
+2.187123651s
+2.187592545s
+2.168215727s
+
+median = 2.187123651s
+
+16 threads
+1.116323126s
+1.146344379s
+1.1199895s
+
+median = 1.1199895s
+
+32 threads
+751.015937ms
+725.740295ms
+743.104711ms
+
+median = 743.104711ms
+
+48 threads
+753.399996ms
+749.916114ms
+738.049377ms
+
+median = 749.916114ms
+
+64 threads
+743.867867ms
+735.84598ms
+730.91892ms
+
+median = 735.84598ms
+
+DS2 Go
+
+1 thread
+Elapsed time 1m8.391286952s
+Elapsed time 1m8.364087938s
+Elapsed  time 1m8.46942789s
+
+median = 1m8.391286952s
+
+2 threads
+Elapsed time 34.312631423s
+Elapsed time 34.076025735s
+Elapsed time 34.433931717s
+
+median = 34.312631423s
+
+4 threads
+Elapsed time 17.812819456s
+Elapsed time 17.821478807s
+Elapsed time 17.805878695s
+
+median = 17.812819456s
+
+8 threads
+Elapsed time 9.232184776s
+Elapsed time 9.229826266s
+Elapsed time 9.241927154s
+
+median = 9.232184776s
+
+16 threads
+Elapsed time 4.650834189s
+Elapsed time 4.648772039s
+Elapsed time 4.66994826s
+
+median = 4.650834189s
+
+32 threads
+Elapsed time 3.094972534s
+Elapsed time 3.067262697s
+Elapsed time 3.093133179s
+
+median = 3.093133179s
+
+48 threads
+Elapsed time 3.082525227s
+Elapsed time 3.116582598s
+Elapsed time 3.068050865s
+
+median = 3.082525227s
+
+64 threads
+Elapsed time 3.06717633s
+Elapsed time 3.077630628s
+Elapsed time 3.09765941s
+
+median = 3.077630628s
+
+DS3 Go
+
+8 threads
+Elapsed time 39.251380973s
+Elapsed time 39.244563969s
+Elapsed time 39.253541797s
+
+median = 39.251380973s
+
+16 threads
+Elapsed time 19.711660652s
+Elapsed time 19.675874776s
+Elapsed time 19.674933836s
+
+median = 19.674933836s
+
+32 threads
+Elapsed time 12.903656903s
+Elapsed time 12.949012395s
+Elapsed time 12.916450926s
+
+median = 12.916450926s
+
+48 threads
+Elapsed time 12.909181531s
+Elapsed time 12.901585434s
+Elapsed time 12.914146676s
+
+median = 12.909181531s
+
+64 threads
+Elapsed time 12.900246519s
+Elapsed time 12.909247475s
+Elapsed time 12.91777987s
+
+median = 12.909247475s
+
+DS1 C
+
+1 thread
+real    0m16.526s
+real    0m16.554s
+real    0m16.555s
+
+median = 0m16.554s
+
+2 threads
+real    0m8.287s
+real    0m8.287s
+real    0m8.287s
+
+median = 0m8.287s
+
+4 threads
+real    0m4.153s
+real    0m4.162s
+real    0m4.237s
+
+median = 0m4.162s
+
+8 threads
+real    0m2.522s
+real    0m2.399s
+real    0m2.454s
+
+median = 0m2.454s
+
+16 threads
+real    0m1.330s
+real    0m1.330s
+real    0m1.332s
+
+median = 0m1.330s
+
+32 threads
+real    0m1.075s
+real    0m1.074s
+real    0m1.154s
+
+median = 0m1.075s
+
+48 threads
+real    0m1.035s
+real    0m1.058s
+real    0m1.079s
+
+median = 0m1.058s
+
+64 threads
+real    0m0.997s
+real    0m1.087s
+real    0m1.023s
+
+median = 0m1.023s
+
+DS2 C
+
+1 thread
+real    1m21.614s
+real    1m24.783s
+real    1m6.364s
+
+median = 1m21.614s
+
+2 threads
+real    0m32.753s
+real    0m33.141s
+real    0m32.752s
+
+median = 0m32.753s
+
+4 threads
+real    0m17.356s
+real    0m17.171s
+real    0m17.104s
+
+median = 0m17.171s
+
+8 threads
+real    0m8.939s
+real    0m8.940s
+real    0m8.937s
+
+median = 0m8.939s
+
+16 threads
+real    0m4.520s
+real    0m4.516s
+real    0m4.536s
+
+median = 0m4.520s
+
+32 threads
+real    0m2.831s
+real    0m2.832s
+real    0m2.833s
+
+median = 0m2.832s
+
+48 threads
+real    0m2.814s
+real    0m2.831s
+real    0m2.805s
+
+median = 0m2.814s
+
+64 threads
+real    0m2.816s
+real    0m2.816s
+real    0m2.807s
+
+median = 0m2.816s
+
+DS3 C
+
+8 threads
+real    0m38.054s
+real    0m38.054s
+real    0m38.051s
+
+median = 0m38.054s
+
+16 threads
+real    0m19.115s
+real    0m19.124s
+real    0m19.114s
+
+median = 0m19.115s
+
+32 threads
+real    0m11.916s
+real    0m11.897s
+real    0m11.902s
+
+median = 0m11.902s
+
+48 threads
+real    0m11.886s
+real    0m11.860s
+real    0m11.864s
+
+median = 0m11.864s
+
+64 threads
+real    0m11.843s
+real    0m11.845s
+real    0m11.855s
+
+median = 0m11.845s
